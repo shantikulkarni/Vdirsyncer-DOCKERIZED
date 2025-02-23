@@ -26,9 +26,9 @@ ENV VDIRSYNCER_CONFIG=/vdirsyncer/config \
         # Set Timezone
         TZ=Europe/Vienna \
         # Set UID
-        UID="1000" \
+        UID="473" \
         # Set GID
-        GID="1000" \
+        GID="473" \
         # Set Vdirsyncer user
         VDIRSYNCER_USER="vdirsyncer" \
         # Set cron file
